@@ -1,4 +1,4 @@
-<h1 align="center">Vignesh Dhanraj — AI Engineer & LLM Specialist</h1>
+<h1 align="center">Vignesh Dhanraj</h1>
 
 <p align="center">
   <strong>Building production-grade AI applications, agent systems, and RAG-powered workflows</strong>

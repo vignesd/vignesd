@@ -62,12 +62,10 @@ AI Engineer with deep expertise in **LLM applications, agentic systems, and RAG 
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[agent-chat-ui](https://github.com/vignesd/agent-chat-ui)** | Full-featured chat interface for LangGraph agents (Python & TypeScript) | LangGraph, React, FastAPI |
-| **[agent-architecture-practice](https://github.com/vignesd/agent-architecture-practice)** | Deep-dive hands-on implementation of agent design patterns | LangChain, LangGraph, Python |
-| **[career-ops](https://github.com/vignesd/career-ops)** | AI-powered job search system with Claude, skill analysis, and PDF generation | Claude API, Python, Go |
-| **[langchain-course](https://github.com/vignesd/langchain-course)** | Production-ready project-based learning: search agents, RAG, reflection agents, code interpreters | LangChain, LangGraph |
-| **[mcp-server-rag-it-help](https://github.com/vignesd/mcp-server-rag-it-help)** | MCP server implementation for RAG-powered support and knowledge systems | MCP, Python, RAG |
-| **[mcp-fastapi-auth](https://github.com/vignesd/mcp-fastapi-auth)** | Production OAuth 2.1 + ScaleKit authentication for MCP servers | FastAPI, MCP, OAuth 2.1 |
+| **[ServiceNow-Embed-RAG](https://github.com/vignesd/ServiceNow-Embed-RAG)** | Enterprise knowledge retrieval and embedding workflow for ServiceNow data | Python, RAG, Embeddings |
+| **[mcp-chinook](https://github.com/vignesd/mcp-chinook)** | MCP server exposing the Chinook dataset for tool-based data access | MCP, Python, SQLite |
+| **[multi-agent-systems](https://github.com/vignesd/multi-agent-systems)** | Multi-agent orchestration patterns for collaborative AI workflows | Python, LangGraph, Agents |
+| **[langchain-OpenAI-Agent](https://github.com/vignesd/langchain-OpenAI-Agent)** | LangChain agent application using OpenAI for tool-driven automation | LangChain, OpenAI, Python |
 
 ---
 

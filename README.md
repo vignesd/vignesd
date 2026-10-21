@@ -62,10 +62,10 @@ AI Engineer with deep expertise in **LLM applications, agentic systems, and RAG 
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[ServiceNow-Embed-RAG](https://github.com/vignesd/ServiceNow-Embed-RAG)** | Enterprise knowledge retrieval and embedding workflow for ServiceNow data | Python, RAG, Embeddings |
-| **[mcp-chinook](https://github.com/vignesd/mcp-chinook)** | MCP server exposing the Chinook dataset for tool-based data access | MCP, Python, SQLite |
-| **[multi-agent-systems](https://github.com/vignesd/multi-agent-systems)** | Multi-agent orchestration patterns for collaborative AI workflows | Python, LangGraph, Agents |
-| **[langchain-OpenAI-Agent](https://github.com/vignesd/langchain-OpenAI-Agent)** | LangChain agent application using OpenAI for tool-driven automation | LangChain, OpenAI, Python |
+| **[ServiceNow-Embed-RAG](https://github.com/vignesd/ServiceNow-Embed-RAG)** | Semantic retrieval and embedding workflows for enterprise knowledge search over ServiceNow content | Python, RAG, Embeddings |
+| **[mcp-chinook](https://github.com/vignesd/mcp-chinook)** | MCP server exposing the Chinook sample database for agent-driven, tool-based data access | MCP, Python, SQLite |
+| **[multi-agent-systems](https://github.com/vignesd/multi-agent-systems)** | Practical multi-agent orchestration patterns for collaborative AI workflows and task execution | Python, LangGraph, Agents |
+| **[langchain-OpenAI-Agent](https://github.com/vignesd/langchain-OpenAI-Agent)** | Tool-using LangChain agent built with OpenAI for reasoning, automation, and workflow execution | LangChain, OpenAI, Python |
 
 ---
 

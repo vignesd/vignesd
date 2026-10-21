@@ -62,12 +62,12 @@ AI Engineer with deep expertise in **LLM applications, agentic systems, and RAG 
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[agent-chat-ui](https://github.com/vignesd/agent-chat-ui)** | Full-featured chat interface for LangGraph agents and MCP-powered workflows | LangGraph, React, FastAPI |
+| **[agent-chat-ui](https://github.com/vignesd/agent-chat-ui)** | Full-featured chat interface for LangGraph agents (Python & TypeScript) | LangGraph, React, FastAPI |
+| **[agent-architecture-practice](https://github.com/vignesd/agent-architecture-practice)** | Deep-dive hands-on implementation of agent design patterns | LangChain, LangGraph, Python |
 | **[career-ops](https://github.com/vignesd/career-ops)** | AI-powered job search system with Claude, skill analysis, and PDF generation | Claude API, Python, Go |
-| **[langchain-course](https://github.com/vignesd/langchain-course)** | Production-ready project-based learning for agents, RAG, reflection, and code interpreters | LangChain, LangGraph, Python |
-| **[mcp-fastapi-auth](https://github.com/vignesd/mcp-fastapi-auth)** | Production OAuth 2.1 + ScaleKit authentication for secure MCP servers | FastAPI, MCP, OAuth 2.1 |
+| **[langchain-course](https://github.com/vignesd/langchain-course)** | Production-ready project-based learning: search agents, RAG, reflection agents, code interpreters | LangChain, LangGraph |
 | **[mcp-server-rag-it-help](https://github.com/vignesd/mcp-server-rag-it-help)** | MCP server implementation for RAG-powered support and knowledge systems | MCP, Python, RAG |
-| **[multi-agent-systems](https://github.com/vignesd/multi-agent-systems)** | Practical multi-agent orchestration patterns and workflow design | Python, LangGraph, Agents |
+| **[mcp-fastapi-auth](https://github.com/vignesd/mcp-fastapi-auth)** | Production OAuth 2.1 + ScaleKit authentication for MCP servers | FastAPI, MCP, OAuth 2.1 |
 
 ---
 

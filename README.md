@@ -1,7 +1,7 @@
 <h1 align="center">Vignesh Dhanraj</h1>
 
 <p align="center">
-  <strong>Building production-grade AI applications, agent systems, and RAG-powered workflows</strong>
+  <strong>AI Engineer building production-grade LLM applications, agent systems, and RAG-powered experiences</strong>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 ---
 
-## 🎯 Who I Am
-AI Engineer with deep expertise in **LLM applications, agentic systems, and RAG architectures**. Proven track record building production AI systems using LangChain, LangGraph, and Claude. Certified AI engineer focused on production-grade agent solutions.
+## 🎯 About Me
+AI engineer with hands-on experience designing and shipping intelligent systems across LLM applications, multi-agent workflows, and enterprise RAG architectures. I focus on building reliable, production-ready AI experiences that combine strong engineering fundamentals with practical product impact.
 
 ---
 
@@ -30,31 +30,25 @@ AI Engineer with deep expertise in **LLM applications, agentic systems, and RAG 
 ## 💼 Core Expertise
 
 ### LLM & Generative AI
-- LangChain & LangGraph agent architecture and design patterns
-- RAG (Retrieval Augmented Generation) systems and vector databases
-- Multi-step agentic workflows and tool-using agents
-- Prompt engineering and structured output generation
-- LLM API integration and deployment optimization
+- LangChain and LangGraph architecture for real-world AI products
+- Retrieval-augmented generation (RAG) systems and semantic search
+- Multi-step agent workflows and tool-using assistants
+- Prompt engineering and structured outputs for production reliability
+- LLM integrations and model orchestration across APIs and services
 
 ### AI Tools & Platforms
-- **Claude API** — Advanced prompt engineering and structured outputs
-- **OpenAI** — GPT integration and fine-tuning strategies
-- **Copilot Studio** — Enterprise copilot and automation workflows
-- **Amazon Q** — AI-assisted coding and knowledge systems
-- **Azure AI Services** — Cognitive services and ML models
+- **Claude API** — advanced prompt design and structured generation
+- **OpenAI** — agentic workflows, automation, and orchestration
+- **Copilot Studio** — enterprise copilots and workflow enablement
+- **Amazon Q** — AI-assisted engineering and knowledge work
+- **Azure AI Services** — enterprise AI platform integration and deployment
 
-### Infrastructure & Development
-- **Backend:** Python, FastAPI, async workflows
-- **Frontend:** TypeScript, React (for AI interfaces)
-- **MCP (Model Context Protocol)** — Server architecture and tool integration
-- **Deployment:** Docker, cloud-native AI systems
-- **Architecture:** Scalable, production-ready AI systems
-
-### Business & Strategy
-- AI transformation roadmaps and enterprise adoption
-- AI-powered automation and workflow optimization
-- Career and job search automation solutions
-- AI business case development and ROI analysis
+### Engineering & Delivery
+- **Backend:** Python, FastAPI, async service design
+- **Frontend:** TypeScript, React, AI-driven user experiences
+- **MCP (Model Context Protocol):** tool integration and context-rich AI systems
+- **Deployment:** Docker, cloud-native systems, scalable app architecture
+- **Leadership:** architecture, strategy, product-focused AI implementation
 
 ---
 
@@ -63,7 +57,7 @@ AI Engineer with deep expertise in **LLM applications, agentic systems, and RAG 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **[ServiceNow-Embed-RAG](https://github.com/vignesd/ServiceNow-Embed-RAG)** | Semantic retrieval and embedding workflows for enterprise knowledge search over ServiceNow content | Python, RAG, Embeddings |
-| **[mcp-chinook](https://github.com/vignesd/mcp-chinook)** | MCP server exposing the Chinook sample database for agent-driven, tool-based data access | MCP, Python, SQLite |
+| **[mcp-chinook](https://github.com/vignesd/mcp-chinook)** | MCP server exposing the Chinook sample database for tool-based, agent-friendly data access | MCP, Python, SQLite |
 | **[multi-agent-systems](https://github.com/vignesd/multi-agent-systems)** | Practical multi-agent orchestration patterns for collaborative AI workflows and task execution | Python, LangGraph, Agents |
 | **[langchain-OpenAI-Agent](https://github.com/vignesd/langchain-OpenAI-Agent)** | Tool-using LangChain agent built with OpenAI for reasoning, automation, and workflow execution | LangChain, OpenAI, Python |
 
@@ -71,43 +65,40 @@ AI Engineer with deep expertise in **LLM applications, agentic systems, and RAG 
 
 ## 🛠️ Technical Stack
 
-**LLM Frameworks & Libraries**
+**AI & LLM Stack**
 - LangChain, LangGraph, LangServe
 - Claude API, OpenAI API
 - MCP (Model Context Protocol)
+- Vector databases and semantic retrieval
 
 **Languages & Frameworks**
-- Python (primary) — FastAPI, async
-- TypeScript / JavaScript (React, Node.js)
-- Jupyter Notebooks (exploration & teaching)
+- Python (primary) — FastAPI, async systems, backend services
+- TypeScript / JavaScript — React and web-based AI interfaces
+- Jupyter Notebooks — experimentation, prototyping, learning workflows
 
-**AI & Data**
-- RAG pipelines and vector databases
-- Semantic search and embeddings
-- Structured output and JSON schema validation
-
-**Cloud & DevOps**
-- Azure AI services
-- Docker & containerization
-- Git & CI/CD workflows
+**Data & Architecture**
+- RAG pipelines and knowledge augmentation
+- Embeddings and semantic search
+- Structured output and schema validation
+- Cloud-ready, production-minded system design
 
 ---
 
-## 📈 What I'm Currently Exploring
-- Advanced agentic workflows and multi-agent orchestration
-- Production-scale RAG architecture and optimization
-- LLM fine-tuning and customization strategies
-- Copilot Studio and enterprise AI automation
-- AI-driven business process automation
+## 📈 Current Focus
+- Advanced agentic workflows and collaborative multi-agent systems
+- Production-scale RAG architecture and retrieval optimization
+- AI product design for enterprise workflows and decision support
+- Copilot Studio and workflow automation at scale
+- AI-driven business transformation and intelligent operations
 
 ---
 
 ## 🤝 Open To
-- **AI Engineer Roles** — LLM apps, agents, RAG systems, full-stack
-- **Senior Engineer / Staff Engineer** — AI architecture and strategy
-- **AI Architect Roles** — Enterprise AI systems and transformation
+- **AI Engineer Roles** — LLM applications, agents, RAG systems, full-stack AI
+- **Senior Engineer / Staff Engineer** — AI architecture and technical leadership
+- **AI Architect Roles** — enterprise AI systems and transformation strategies
 - **Founder / Co-founder** — AI-first products and solutions
-- **Consulting & Advising** — AI strategy, implementation, and training
+- **Consulting & Advising** — AI strategy, implementation, and production enablement
 
 ---
 
